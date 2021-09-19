@@ -1,0 +1,11 @@
+.App {
+  overflow: hidden;
+  background-color: black;
+  color: white;
+}
+@media screen and (max-width: 768px) {
+  .image1 {
+    margin: 0px;
+    width: 100%;
+  }
+}
